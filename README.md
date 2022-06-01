@@ -17,7 +17,7 @@
 - [hyper](https://hyper.is/)
 
 ## :checkered_flag: Como executar o projeto
-- <p>Faça um clone deste projeto, abrindo a linha de comando e executando o seguinte comando: </p>
+- <p>Faça um clone deste projeto, abrindo a linha de comando e executando o seguinte: </p>
 
 ```bash
 git clone https://github.com/mirellafavaretto/buger-eats-cypress-discovery.git
