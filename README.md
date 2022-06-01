@@ -9,7 +9,7 @@
 - Projeto prático
 - Git na prática
 
-## :hammer_and_wrench: Ferramentas utilizadas
+## :hammer_and_wrench: Ferramentas que utilizei
 
 - [Cypress](https://www.cypress.io/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
